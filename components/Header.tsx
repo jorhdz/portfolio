@@ -32,7 +32,7 @@ export default function Header( ) {
                 className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-3 text-base font-medium text-orange-600 shadow-sm hover:bg-orange-100 sm:px-8"
                 
               >
-                LinkedIn
+               <a href= "www.linkedin.com/in/jorgehdzdev" target="_blank">LinkedIn</a> 
               </button>
             </div>
           </div>
